@@ -1,0 +1,14 @@
+{
+  "launcherVersion": "1.0.0",
+  "launcherUrl": "",
+  "games": [
+    {
+      "id": "warsthelasttrace",
+      "name": "Wars The Last Trace",
+      "version": "0.1.0",
+      "executable": "Wars The Last Trace.exe",
+      "downloadUrl": "",
+      "voicePacks": []
+    }
+  ]
+}
