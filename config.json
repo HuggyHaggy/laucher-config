@@ -8,8 +8,7 @@
       "clientVer": 1,
       "clientUrl": "https://www.dropbox.com/scl/fi/colx1rcogp0jnlpmcyrrc/Build.zip?rlkey=nn1p11yh1p1vjr92jmtclg6s0&st=7udpn7ms&dl=1",
       "patchUrls": [
-        "https://your-server.com/game1-patch1.7z",
-        "https://your-server.com/game1-patch2.7z"
+        "https://www.dropbox.com/scl/fi/colx1rcogp0jnlpmcyrrc/Build.zip?rlkey=nn1p11yh1p1vjr92jmtclg6s0&st=7udpn7ms&dl=1",
       ],
       "maintenance": false,
       "voicePacks": [
