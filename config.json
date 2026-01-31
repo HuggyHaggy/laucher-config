@@ -3,7 +3,7 @@
   "launcherUrl": "https://your-server.com/launcher.exe",
   "games": [
     {
-      "name": "Wars: TLT2",
+      "name": "Wars",
       "startCmd": "start Wars.exe param1 param2",
       "clientVer": 1,
       "clientUrl": "http://dropbox.com/scl/fi/7ssdlgnmau889h3bo7itr/Build.rar?rlkey=v0l78kmfsf4ocg1gw2r71emg7&st=dfu5t7zu&dl=1",
