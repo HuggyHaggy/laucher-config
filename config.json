@@ -4,7 +4,7 @@
   "games": [
     {
       "name": "Wars The last Trace",
-      "startCmd": "start "Wars The last Trace.exe" param1 param2",
+      "startCmd": "start \"\" \"Wars The Last Trace.exe\" param1 param2",
       "clientVer": 1,
       "clientUrl": "dropbox.com/scl/fi/q6zwc4x5f295gyd2xlikw/Wars.rar?rlkey=kyj6kizvg26grni47ypsuhf6v&e=1&st=nm10fwfg&dl=1",
       "patchUrls": [
