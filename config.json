@@ -7,9 +7,7 @@
       "startCmd": "start Wars.exe param1 param2",
       "clientVer": 1,
       "clientUrl": "https://www.dropbox.com/scl/fi/colx1rcogp0jnlpmcyrrc/Build.zip?rlkey=nn1p11yh1p1vjr92jmtclg6s0&st=7udpn7ms&dl=1",
-      "patchUrls": [
-        "",
-      ],
+      "patchUrls": [],
       "maintenance": false,
       "voicePacks": [
         {
