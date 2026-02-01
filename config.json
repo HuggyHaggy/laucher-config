@@ -31,6 +31,14 @@
       "clientUrl": "https://your-server.com/game2-client.7z",
       "patchUrls": [],
       "maintenance": true
+    },
+        {
+      "name": "game3",
+      "startCmd": "start game3.exe paramA paramB",
+      "clientVer": 1,
+      "clientUrl": "https://your-server.com/game2-client.7z",
+      "patchUrls": [],
+      "maintenance": true
     }
   ]
 }
