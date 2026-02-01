@@ -25,8 +25,8 @@
       ]
     },
     {
-      "name": "game2",
-      "startCmd": "start game2.exe paramA paramB",
+      "name": "es",
+      "startCmd": "start es.exe paramA paramB",
       "clientVer": 1,
       "clientUrl": "https://your-server.com/game2-client.7z",
       "patchUrls": [],
