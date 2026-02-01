@@ -25,7 +25,7 @@
       ]
     },
     {
-      "name": "Es",
+      "name": "game1",
       "startCmd": "start game1.exe paramA paramB",
       "clientVer": 1,
       "clientUrl": "https://your-server.com/game2-client.7z",
