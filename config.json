@@ -5,7 +5,7 @@
     {
       "name": "Wars",
       "startCmd": "start Build/Wars.exe param1 param2",
-      "clientVer": 5,
+      "clientVer": 1,
       "clientUrl": "https://www.dropbox.com/scl/fi/os17wq05y4sgh3iv43mdz/Build.zip?rlkey=h1rg2vzncw3kefumke4xs8v50&st=6jkrz81t&dl=1",
       "patchUrls": [],
       "maintenance": false,
@@ -32,13 +32,5 @@
       "patchUrls": [],
       "maintenance": true
     },
-    {
-      "name": "game3",
-      "startCmd": "start game3.exe paramA paramB",
-      "clientVer": 1,
-      "clientUrl": "https://your-server.com/game2-client.7z",
-      "patchUrls": [],
-      "maintenance": true
-    }
   ]
 }
