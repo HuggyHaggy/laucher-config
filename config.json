@@ -31,6 +31,6 @@
       "clientUrl": "https://your-server.com/game2-client.7z",
       "patchUrls": [],
       "maintenance": true
-    },
+    }
   ]
 }
