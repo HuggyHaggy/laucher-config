@@ -10,18 +10,9 @@
       "patchUrls": [],
       "maintenance": false,
       "voicePacks": [
-        {
-          "value": "EN",
-          "label": "English"
-        },
-        {
-          "value": "PT",
-          "label": "Português"
-        },
-        {
-          "value": "KR",
-          "label": "한국어 음성"
-        }
+        { "value": "EN", "label": "English" },
+        { "value": "PT", "label": "Português" },
+        { "value": "KR", "label": "한국어 음성" }
       ]
     },
     {
@@ -34,3 +25,4 @@
     }
   ]
 }
+
